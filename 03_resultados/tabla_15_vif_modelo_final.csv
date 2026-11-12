@@ -1,0 +1,9 @@
+﻿variable_explicativa_x,tipo_variable,vif_solo_6_carencias,vif_modelo_final_8_vars,tolerancia_1_sobre_vif,R2_auxiliar_con_demas_x,criterio_vif_menor_5
+carencia_vivienda_porcentaje,Carencia social (%),3.5787,3.6012,0.2777,0.7223,CUMPLE (VIF < 5)
+carencia_servicios_basicos_porcentaje,Carencia social (%),3.3553,3.3599,0.2976,0.7024,CUMPLE (VIF < 5)
+carencia_seguridad_social_porcentaje,Carencia social (%),2.0223,3.0305,0.33,0.67,CUMPLE (VIF < 5)
+ind_urbano_grande,Indicadora binaria (0/1),,2.3799,0.4202,0.5798,CUMPLE (VIF < 5)
+rezago_educativo_porcentaje,Carencia social (%),2.1813,2.2041,0.4537,0.5463,CUMPLE (VIF < 5)
+ind_semiurbano_medio,Indicadora binaria (0/1),,2.1963,0.4553,0.5447,CUMPLE (VIF < 5)
+carencia_alimentacion_porcentaje,Carencia social (%),2.0043,2.0571,0.4861,0.5139,CUMPLE (VIF < 5)
+carencia_salud_porcentaje,Carencia social (%),1.1268,1.7564,0.5694,0.4306,CUMPLE (VIF < 5)

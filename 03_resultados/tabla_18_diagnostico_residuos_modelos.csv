@@ -1,0 +1,3 @@
+﻿modelo,media_residuos,desv_est_residuos,shapiro_W,shapiro_p,normalidad_005,breusch_pagan_LM,breusch_pagan_p,homocedasticidad_005,umbral_cook_4_n,n_municipios_cook_alto,max_cook
+Regresion Simple (x = vivienda),0.0,7.1032,0.9511,0.00018963,NO (p<0.05),0.8072,0.36894,SI,0.032,9,0.4332
+Regresion Multiple (8 variables),0.0,6.6579,0.9329,9.9551e-06,NO (p<0.05),22.5816,0.0039451,NO (usar HC3),0.032,10,0.1405

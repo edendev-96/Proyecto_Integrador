@@ -1,0 +1,13 @@
+﻿variable,limite_inferior_ric,limite_superior_ric,num_extremos_bajos,num_extremos_altos,total_extremos,municipios_extremos_bajos,municipios_extremos_altos
+ingreso_inferior_lpi_porcentaje,29.095,60.415,5,5,10,Atenguillo (17.62); Mixtlán (24.94); Ejutla (25.29); Teuchitlán (26.33); El Limón (27.64),Mezquitic (80.58); Atemajac de Brizuela (74.72); Chiquilistlán (71.10); Chimaltitán (67.65); Hostotipaquillo (66.25)
+carencia_vivienda_porcentaje,-4.315,19.405,0,5,5,Ninguno,Mezquitic (57.62); Bolaños (40.96); Cuautitlán de García Barragán (32.23); Zapotitlán de Vadillo (21.77); Chimaltitán (20.76)
+carencia_servicios_basicos_porcentaje,-12.52,37.08,0,8,8,Ninguno,Mezquitic (74.63); Cuautitlán de García Barragán (70.69); Bolaños (55.84); Chiquilistlán (42.73); Santa María del Oro (41.74); Tolimán (39.50); Chimaltitán (39.29); Cabo Corrientes (39.02)
+carencia_alimentacion_porcentaje,-2.05,28.19,0,4,4,Ninguno,Mezquitic (48.11); Cuautitlán de García Barragán (30.61); Chimaltitán (29.89); Tizapán el Alto (28.70)
+rezago_educativo_porcentaje,4.955,40.275,0,2,2,Ninguno,Mezquitic (43.13); Santa María del Oro (41.28)
+carencia_salud_porcentaje,-0.615,57.425,0,5,5,Ninguno,Degollado (73.53); Villa Hidalgo (65.29); Zapotlanejo (59.88); Tapalpa (59.42); Chapala (58.22)
+carencia_seguridad_social_porcentaje,31.875,109.355,0,0,0,Ninguno,Ninguno
+pobreza_porcentaje,19.865,60.625,1,5,6,Atenguillo (17.43),Mezquitic (80.09); Atemajac de Brizuela (73.21); Chiquilistlán (68.41); Chimaltitán (65.81); Hostotipaquillo (63.67)
+pobreza_extrema_porcentaje,-2.29,11.39,0,8,8,Ninguno,Mezquitic (53.15); Bolaños (29.31); Chimaltitán (23.80); Atemajac de Brizuela (18.94); Cuautitlán de García Barragán (18.87); Chiquilistlán (16.40); Santa María del Oro (12.07); Atengo (12.03)
+carencias_promedio,1.37,2.73,0,3,3,Ninguno,Mezquitic (3.56); Bolaños (3.21); Cuautitlán de García Barragán (2.96)
+poblacion_2020,-34196.0,76556.0,0,13,13,Ninguno,Zapopan (1458652.00); Guadalajara (1356167.00); Tlajomulco de Zúñiga (789964.00); Tlaquepaque (710586.00); Tonalá (601548.00); Puerto Vallarta (329373.00); El Salto (239313.00); Lagos de Moreno (177818.00); Tepatitlán de Morelos (133350.00); Zapotlán el Grande (116094.00); Ocotlán (103173.00); Tala (88691.00); Arandas (79688.00)
+pobreza_personas,-13535.5,31140.5,0,9,9,Ninguno,Zapopan (387944.00); Guadalajara (336622.00); Tlajomulco de Zúñiga (271636.00); Tonalá (223521.00); Tlaquepaque (194382.00); Puerto Vallarta (116693.00); El Salto (95824.00); Lagos de Moreno (66171.00); Tepatitlán de Morelos (38584.00)

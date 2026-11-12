@@ -1,0 +1,10 @@
+﻿termino,beta_ecuacion_normal_numpy,beta_statsmodels_ols,diferencia_absoluta
+const,23.03327159,23.03327159,1.8474e-13
+carencia_vivienda_porcentaje,0.56968736,0.56968736,1.5432e-14
+carencia_servicios_basicos_porcentaje,-0.08270466,-0.08270466,8.9512e-15
+carencia_alimentacion_porcentaje,0.35890833,0.35890833,5.5511e-16
+rezago_educativo_porcentaje,0.1381804,0.1381804,1.868e-14
+carencia_salud_porcentaje,0.01696675,0.01696675,8.913e-15
+carencia_seguridad_social_porcentaje,0.14251617,0.14251617,4.9405e-15
+ind_urbano_grande,2.23193686,2.23193686,4.1966e-13
+ind_semiurbano_medio,-0.08723974,-0.08723974,1.4302e-13

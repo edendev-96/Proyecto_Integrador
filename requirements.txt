@@ -1,0 +1,8 @@
+pandas
+openpyxl
+mysql-connector-python
+python-dotenv
+statsmodels
+scikit-learn
+matplotlib
+scipy

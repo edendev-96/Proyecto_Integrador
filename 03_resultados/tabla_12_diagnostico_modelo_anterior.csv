@@ -1,0 +1,12 @@
+﻿variable_modelo_anterior,coeficiente_ols_anterior,valor_p_anterior,vif_bloque_7_numericas,vif_modelo_anterior_11_vars,diagnostico_metodologico
+ingreso_inferior_lpi_porcentaje,0.9089,7.2697e-104,1.764,1.8437,Circularidad definicional con pobreza_porcentaje (pasa a ser Y)
+rezago_educativo_porcentaje,0.0379,0.021911,2.1988,2.2521,Ninguno (se conserva en X)
+carencia_salud_porcentaje,0.0074,0.42758,1.1283,2.78,Ninguno (se conserva en X)
+carencia_seguridad_social_porcentaje,0.2036,6.7053e-44,2.0837,3.1844,Ninguno (se conserva en X)
+carencia_vivienda_porcentaje,0.0089,0.65895,3.9517,4.181,Ninguno (se conserva en X)
+carencia_servicios_basicos_porcentaje,0.0379,0.00044022,3.3825,3.8335,Ninguno (se conserva en X)
+carencia_alimentacion_porcentaje,0.0286,0.11054,2.1199,2.5426,Ninguno (se conserva en X)
+ind_urbano_grande,-1.2312,0.0016931,,2.3896,Ninguno (se conserva en X)
+ind_semiurbano_medio,-0.6856,0.0013769,,2.2118,Ninguno (se conserva en X)
+ind_intensidad_alta,-0.1831,0.66023,,4.3241,Fuga de informacion (derivada de carencias_promedio)
+ind_intensidad_moderada,-0.1782,0.43282,,2.5308,Fuga de informacion (derivada de carencias_promedio)

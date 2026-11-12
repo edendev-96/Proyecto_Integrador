@@ -1,0 +1,3 @@
+﻿termino,coeficiente_beta,error_estandar_ols,estadistico_t_ols,valor_p_ols,ic95_inf_ols,ic95_sup_ols,error_estandar_hc3,valor_p_hc3
+const,38.9176,1.0085,38.5909,1.3963e-70,36.9214,40.9138,1.0395,4.3679e-69
+carencia_vivienda_porcentaje,0.746,0.0899,8.3006,1.5577e-13,0.5681,0.9238,0.1087,2.9747e-10

@@ -1,0 +1,4 @@
+﻿modelo,k_vars,r2,r2_ajustado,r2_cv_5fold,F_stat,valor_p_F,rmse,mae,evaluacion_metodologica
+"1. Simple Nuevo (y=ingreso_lpi, x=vivienda)",1,0.359,0.3538,0.2833,68.9007,1.56E-13,7.0748,4.9946,Valido (sin circularidad)
+"2. Multiple Nuevo (y=ingreso_lpi, 8 vars)",8,0.4369,0.3981,0.2509,11.2502,1.10E-11,6.6312,4.566,Valido (sin circularidad ni fuga)
+"3. Multiple Anterior BD (y=pobreza_pct, 11 vars)",11,0.9944,0.9938,0.9917,1809.3035,1.66E-121,0.7457,0.5509,Descartado (circularidad definicional)

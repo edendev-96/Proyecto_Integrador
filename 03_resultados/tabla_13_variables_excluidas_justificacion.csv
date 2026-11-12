@@ -1,0 +1,14 @@
+﻿variable_excluida,tipo_columna,motivo_principal,justificacion_tecnica
+pobreza_porcentaje,Variable objetivo anterior,Circularidad definicional,CONEVAL la define combinando ingreso_inferior_lpi_porcentaje y las 6 carencias sociales.
+pobreza_personas,Numerica derivada,Fuga de informacion y escala poblacional,Se calcula multiplicando pobreza_porcentaje por poblacion_2020 (r = 0.9882 con poblacion).
+pobreza_extrema_porcentaje,Subconjunto definicional,Circularidad parcial y asimetria extrema,CONEVAL la define con ingreso inferior a LPEI y 3 o mas carencias; tiene asimetria = 5.0700.
+carencias_promedio,Resumen lineal de carencias,Fuga de informacion / colinealidad,Es el promedio directo de las 6 carencias sociales que ya entran individualmente en X.
+nivel_intensidad_carencias,Categorica derivada,Fuga de informacion,"Categorizacion directa de carencias_promedio en Baja, Moderada y Alta."
+ind_intensidad_alta,Indicadora binaria (0/1),Fuga de informacion (VIF = 4.3241),Indicadora derivada de carencias_promedio; duplica la informacion de las 6 carencias.
+ind_intensidad_moderada,Indicadora binaria (0/1),Fuga de informacion (VIF = 2.5308),Indicadora derivada de carencias_promedio; duplica la informacion de las 6 carencias.
+poblacion_2020,Demografica de escala absoluta,Asimetria extrema (5.3490) y redundancia,No es porcentaje; su efecto de escala entra al modelo mediante tipo_municipio_poblacion.
+tipo_municipio_poblacion,Categorica en texto (3 niveles),Codificada en variables indicadoras,Entra al modelo mediante ind_urbano_grande e ind_semiurbano_medio (referencia: Rural_Pequeno).
+clave_municipio,Identificador INEGI CHAR(5),Identificador administrativo sin valor predictivo,Llave primaria de la tabla datos_limpios (14001 a 14125).
+clave_entidad,Identificador estatal constante,Constante sin varianza,Vale siempre 14 (Jalisco) en los 125 registros.
+entidad_federativa,Texto constante,Constante sin varianza,Vale siempre 'Jalisco' en los 125 registros.
+municipio,Texto nominal,Identificador de etiqueta municipal,"Nombre oficial del municipio; se usa para identificar residuos y valores extremos, no como X."

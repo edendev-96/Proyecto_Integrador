@@ -1,0 +1,11 @@
+﻿clave_municipio,municipio,y_real_lpi,y_ajustado,residuo,distancia_cook,supera_4_n
+14010,Atemajac de Brizuela,74.72,59.918,14.802,0.1405,SI
+14012,Atenguillo,17.62,42.9888,-25.3688,0.1397,SI
+14061,Mezquitic,80.58,85.7058,-5.1258,0.1087,SI
+14032,Chiquilistlán,71.1,49.7241,21.3759,0.1009,SI
+14060,Mexticacán,60.38,42.6635,17.7165,0.0835,SI
+14043,La Huerta,34.09,53.4692,-19.3792,0.0767,SI
+14019,Bolaños,56.29,64.9487,-8.6587,0.0747,SI
+14040,Hostotipaquillo,66.25,46.1157,20.1343,0.0635,SI
+14062,Mixtlán,24.94,46.0647,-21.1247,0.0391,SI
+14095,Teuchitlán,26.33,39.6065,-13.2765,0.0324,SI

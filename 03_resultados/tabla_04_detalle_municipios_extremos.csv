@@ -1,0 +1,74 @@
+﻿variable,tipo_extremo,clave_municipio,municipio,valor,umbral_ric
+ingreso_inferior_lpi_porcentaje,Bajo (< Q1 - 1.5*RIC),14012,Atenguillo,17.62,29.095
+ingreso_inferior_lpi_porcentaje,Bajo (< Q1 - 1.5*RIC),14062,Mixtlán,24.94,29.095
+ingreso_inferior_lpi_porcentaje,Bajo (< Q1 - 1.5*RIC),14034,Ejutla,25.29,29.095
+ingreso_inferior_lpi_porcentaje,Bajo (< Q1 - 1.5*RIC),14095,Teuchitlán,26.33,29.095
+ingreso_inferior_lpi_porcentaje,Bajo (< Q1 - 1.5*RIC),14054,El Limón,27.64,29.095
+ingreso_inferior_lpi_porcentaje,Alto (> Q3 + 1.5*RIC),14061,Mezquitic,80.58,60.415
+ingreso_inferior_lpi_porcentaje,Alto (> Q3 + 1.5*RIC),14010,Atemajac de Brizuela,74.72,60.415
+ingreso_inferior_lpi_porcentaje,Alto (> Q3 + 1.5*RIC),14032,Chiquilistlán,71.1,60.415
+ingreso_inferior_lpi_porcentaje,Alto (> Q3 + 1.5*RIC),14031,Chimaltitán,67.65,60.415
+ingreso_inferior_lpi_porcentaje,Alto (> Q3 + 1.5*RIC),14040,Hostotipaquillo,66.25,60.415
+carencia_vivienda_porcentaje,Alto (> Q3 + 1.5*RIC),14061,Mezquitic,57.62,19.405
+carencia_vivienda_porcentaje,Alto (> Q3 + 1.5*RIC),14019,Bolaños,40.96,19.405
+carencia_vivienda_porcentaje,Alto (> Q3 + 1.5*RIC),14027,Cuautitlán de García Barragán,32.23,19.405
+carencia_vivienda_porcentaje,Alto (> Q3 + 1.5*RIC),14122,Zapotitlán de Vadillo,21.77,19.405
+carencia_vivienda_porcentaje,Alto (> Q3 + 1.5*RIC),14031,Chimaltitán,20.76,19.405
+carencia_servicios_basicos_porcentaje,Alto (> Q3 + 1.5*RIC),14061,Mezquitic,74.63,37.08
+carencia_servicios_basicos_porcentaje,Alto (> Q3 + 1.5*RIC),14027,Cuautitlán de García Barragán,70.69,37.08
+carencia_servicios_basicos_porcentaje,Alto (> Q3 + 1.5*RIC),14019,Bolaños,55.84,37.08
+carencia_servicios_basicos_porcentaje,Alto (> Q3 + 1.5*RIC),14032,Chiquilistlán,42.73,37.08
+carencia_servicios_basicos_porcentaje,Alto (> Q3 + 1.5*RIC),14056,Santa María del Oro,41.74,37.08
+carencia_servicios_basicos_porcentaje,Alto (> Q3 + 1.5*RIC),14099,Tolimán,39.5,37.08
+carencia_servicios_basicos_porcentaje,Alto (> Q3 + 1.5*RIC),14031,Chimaltitán,39.29,37.08
+carencia_servicios_basicos_porcentaje,Alto (> Q3 + 1.5*RIC),14020,Cabo Corrientes,39.02,37.08
+carencia_alimentacion_porcentaje,Alto (> Q3 + 1.5*RIC),14061,Mezquitic,48.11,28.19
+carencia_alimentacion_porcentaje,Alto (> Q3 + 1.5*RIC),14027,Cuautitlán de García Barragán,30.61,28.19
+carencia_alimentacion_porcentaje,Alto (> Q3 + 1.5*RIC),14031,Chimaltitán,29.89,28.19
+carencia_alimentacion_porcentaje,Alto (> Q3 + 1.5*RIC),14096,Tizapán el Alto,28.7,28.19
+rezago_educativo_porcentaje,Alto (> Q3 + 1.5*RIC),14061,Mezquitic,43.13,40.275
+rezago_educativo_porcentaje,Alto (> Q3 + 1.5*RIC),14056,Santa María del Oro,41.28,40.275
+carencia_salud_porcentaje,Alto (> Q3 + 1.5*RIC),14033,Degollado,73.53,57.425
+carencia_salud_porcentaje,Alto (> Q3 + 1.5*RIC),14116,Villa Hidalgo,65.29,57.425
+carencia_salud_porcentaje,Alto (> Q3 + 1.5*RIC),14124,Zapotlanejo,59.88,57.425
+carencia_salud_porcentaje,Alto (> Q3 + 1.5*RIC),14086,Tapalpa,59.42,57.425
+carencia_salud_porcentaje,Alto (> Q3 + 1.5*RIC),14030,Chapala,58.22,57.425
+pobreza_porcentaje,Bajo (< Q1 - 1.5*RIC),14012,Atenguillo,17.43,19.865
+pobreza_porcentaje,Alto (> Q3 + 1.5*RIC),14061,Mezquitic,80.09,60.625
+pobreza_porcentaje,Alto (> Q3 + 1.5*RIC),14010,Atemajac de Brizuela,73.21,60.625
+pobreza_porcentaje,Alto (> Q3 + 1.5*RIC),14032,Chiquilistlán,68.41,60.625
+pobreza_porcentaje,Alto (> Q3 + 1.5*RIC),14031,Chimaltitán,65.81,60.625
+pobreza_porcentaje,Alto (> Q3 + 1.5*RIC),14040,Hostotipaquillo,63.67,60.625
+pobreza_extrema_porcentaje,Alto (> Q3 + 1.5*RIC),14061,Mezquitic,53.15,11.39
+pobreza_extrema_porcentaje,Alto (> Q3 + 1.5*RIC),14019,Bolaños,29.31,11.39
+pobreza_extrema_porcentaje,Alto (> Q3 + 1.5*RIC),14031,Chimaltitán,23.8,11.39
+pobreza_extrema_porcentaje,Alto (> Q3 + 1.5*RIC),14010,Atemajac de Brizuela,18.94,11.39
+pobreza_extrema_porcentaje,Alto (> Q3 + 1.5*RIC),14027,Cuautitlán de García Barragán,18.87,11.39
+pobreza_extrema_porcentaje,Alto (> Q3 + 1.5*RIC),14032,Chiquilistlán,16.4,11.39
+pobreza_extrema_porcentaje,Alto (> Q3 + 1.5*RIC),14056,Santa María del Oro,12.07,11.39
+pobreza_extrema_porcentaje,Alto (> Q3 + 1.5*RIC),14011,Atengo,12.03,11.39
+carencias_promedio,Alto (> Q3 + 1.5*RIC),14061,Mezquitic,3.56,2.73
+carencias_promedio,Alto (> Q3 + 1.5*RIC),14019,Bolaños,3.21,2.73
+carencias_promedio,Alto (> Q3 + 1.5*RIC),14027,Cuautitlán de García Barragán,2.96,2.73
+poblacion_2020,Alto (> Q3 + 1.5*RIC),14120,Zapopan,1458652.0,76556.0
+poblacion_2020,Alto (> Q3 + 1.5*RIC),14039,Guadalajara,1356167.0,76556.0
+poblacion_2020,Alto (> Q3 + 1.5*RIC),14097,Tlajomulco de Zúñiga,789964.0,76556.0
+poblacion_2020,Alto (> Q3 + 1.5*RIC),14098,Tlaquepaque,710586.0,76556.0
+poblacion_2020,Alto (> Q3 + 1.5*RIC),14101,Tonalá,601548.0,76556.0
+poblacion_2020,Alto (> Q3 + 1.5*RIC),14067,Puerto Vallarta,329373.0,76556.0
+poblacion_2020,Alto (> Q3 + 1.5*RIC),14070,El Salto,239313.0,76556.0
+poblacion_2020,Alto (> Q3 + 1.5*RIC),14053,Lagos de Moreno,177818.0,76556.0
+poblacion_2020,Alto (> Q3 + 1.5*RIC),14093,Tepatitlán de Morelos,133350.0,76556.0
+poblacion_2020,Alto (> Q3 + 1.5*RIC),14023,Zapotlán el Grande,116094.0,76556.0
+poblacion_2020,Alto (> Q3 + 1.5*RIC),14063,Ocotlán,103173.0,76556.0
+poblacion_2020,Alto (> Q3 + 1.5*RIC),14083,Tala,88691.0,76556.0
+poblacion_2020,Alto (> Q3 + 1.5*RIC),14008,Arandas,79688.0,76556.0
+pobreza_personas,Alto (> Q3 + 1.5*RIC),14120,Zapopan,387944.0,31140.5
+pobreza_personas,Alto (> Q3 + 1.5*RIC),14039,Guadalajara,336622.0,31140.5
+pobreza_personas,Alto (> Q3 + 1.5*RIC),14097,Tlajomulco de Zúñiga,271636.0,31140.5
+pobreza_personas,Alto (> Q3 + 1.5*RIC),14101,Tonalá,223521.0,31140.5
+pobreza_personas,Alto (> Q3 + 1.5*RIC),14098,Tlaquepaque,194382.0,31140.5
+pobreza_personas,Alto (> Q3 + 1.5*RIC),14067,Puerto Vallarta,116693.0,31140.5
+pobreza_personas,Alto (> Q3 + 1.5*RIC),14070,El Salto,95824.0,31140.5
+pobreza_personas,Alto (> Q3 + 1.5*RIC),14053,Lagos de Moreno,66171.0,31140.5
+pobreza_personas,Alto (> Q3 + 1.5*RIC),14093,Tepatitlán de Morelos,38584.0,31140.5

@@ -1,0 +1,4 @@
+﻿opcion_variable_y,columna_y,R2,R2_ajustado,RMSE,R2_CV_5grupos_semilla42,desv_est_R2_CV,diferencia_R2_menos_CV,decision_metodologica
+Opcion 1 (Elegida): ingreso_inferior_lpi_porcentaje,ingreso_inferior_lpi_porcentaje,0.4369,0.3981,6.6312,0.2509,0.3632,0.186,SE CONFIRMA: Mide vulnerabilidad de ingreso sin circularidad definicional con las carencias.
+Opcion 2 (Alternativa A): pobreza_porcentaje (sin ingreso en X),pobreza_porcentaje,0.6252,0.5994,6.0756,0.497,0.302,0.1283,SE DESCARTA: Conserva circularidad parcial porque las 6 carencias forman parte de su definicion.
+Opcion 3 (Alternativa B): pobreza_extrema_porcentaje,pobreza_extrema_porcentaje,0.8667,0.8575,2.1728,0.6468,0.2805,0.22,SE DESCARTA: Asimetria extrema (5.07) y circularidad con el umbral de 3 o mas carencias.

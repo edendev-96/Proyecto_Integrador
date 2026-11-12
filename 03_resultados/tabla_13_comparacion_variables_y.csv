@@ -1,0 +1,4 @@
+﻿variable_objetivo_y,r2,r2_ajustado,rmse,r2_cv_5fold_semilla42
+pobreza_porcentaje (Circularidad parcial),0.6252,0.5994,6.0756,0.497
+pobreza_extrema_porcentaje (Sesgada y circular),0.8667,0.8575,2.1728,0.6468
+ingreso_inferior_lpi_porcentaje (Elegida),0.4369,0.3981,6.6312,0.2509

@@ -1,0 +1,8 @@
+﻿,ingreso_inferior_lpi_porcentaje,carencia_vivienda_porcentaje,carencia_servicios_basicos_porcentaje,carencia_alimentacion_porcentaje,rezago_educativo_porcentaje,carencia_salud_porcentaje,carencia_seguridad_social_porcentaje
+ingreso_inferior_lpi_porcentaje,1.0,0.5992,0.4827,0.5066,0.3349,0.002,0.2918
+carencia_vivienda_porcentaje,0.5992,1.0,0.7753,0.666,0.3251,-0.1681,0.2024
+carencia_servicios_basicos_porcentaje,0.4827,0.7753,1.0,0.4835,0.5319,-0.1446,0.4176
+carencia_alimentacion_porcentaje,0.5066,0.666,0.4835,1.0,0.0915,0.0215,-0.0285
+rezago_educativo_porcentaje,0.3349,0.3251,0.5319,0.0915,1.0,0.0453,0.6815
+carencia_salud_porcentaje,0.002,-0.1681,-0.1446,0.0215,0.0453,1.0,0.1175
+carencia_seguridad_social_porcentaje,0.2918,0.2024,0.4176,-0.0285,0.6815,0.1175,1.0

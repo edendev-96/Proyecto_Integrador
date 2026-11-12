@@ -1,0 +1,12 @@
+﻿tipo_par,variable_1,variable_2,r_pearson,valor_p_pearson,rho_spearman,valor_p_spearman
+Incluye variable derivada/definicional (circularidad),poblacion_2020,pobreza_personas,0.9882,3.9744e-102,0.9825,1.1239e-91
+Incluye variable derivada/definicional (circularidad),ingreso_inferior_lpi_porcentaje,pobreza_porcentaje,0.9399,3.1391e-59,0.8904,7.3253e-44
+Incluye variable derivada/definicional (circularidad),carencia_vivienda_porcentaje,pobreza_extrema_porcentaje,0.8872,3.9139e-43,0.7002,1.0185e-19
+Incluye variable derivada/definicional (circularidad),carencia_vivienda_porcentaje,carencias_promedio,0.7956,1.5052e-28,0.6515,1.928e-16
+Incluye variable derivada/definicional (circularidad),pobreza_extrema_porcentaje,carencias_promedio,0.7921,3.8917e-28,0.7757,2.4002e-26
+Entre variables del modelo (alerta colinealidad),carencia_vivienda_porcentaje,carencia_servicios_basicos_porcentaje,0.7753,2.5971e-26,0.538,9.801e-11
+Incluye variable derivada/definicional (circularidad),carencia_servicios_basicos_porcentaje,carencias_promedio,0.769,1.1499e-25,0.6304,3.3434e-15
+Incluye variable derivada/definicional (circularidad),carencia_servicios_basicos_porcentaje,pobreza_extrema_porcentaje,0.7626,5.0348e-25,0.7202,2.8976e-21
+Incluye variable derivada/definicional (circularidad),pobreza_porcentaje,pobreza_extrema_porcentaje,0.746,1.8183e-23,0.8246,3.2204e-32
+Incluye variable derivada/definicional (circularidad),ingreso_inferior_lpi_porcentaje,pobreza_extrema_porcentaje,0.706,3.7455e-20,0.7379,9.6272e-23
+Incluye variable derivada/definicional (circularidad),carencia_alimentacion_porcentaje,carencias_promedio,0.7052,4.3236e-20,0.5633,7.9582e-12
